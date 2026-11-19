@@ -1,4 +1,4 @@
-# Seedance Real Selling Video
+# Seedance Enhanced-Human-Likeness
 
 Seedance 2.5 real-feel selling video skill for TikTok, Reels, Shorts, and other North American or European commerce platforms.
 
