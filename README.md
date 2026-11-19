@@ -22,15 +22,13 @@ Use this skill when users ask for:
 Send this link to your agent:
 
 ```text
-https://raw.githubusercontent.com/channel040222alan-debug/seedance-real-selling-video/main/SKILL.md
+https://github.com/Simon-ByteBrewer/sd2.5--Enhanced-Human-Likeness/blob/main/SKILL.md
 ```
 
 Full package download:
 
 ```text
-https://github.com/channel040222alan-debug/seedance-real-selling-video/raw/main/seedance-real-selling-video.zip
-```
-
+https://github.com/Simon-ByteBrewer/sd2.5--Enhanced-Human-Likeness/blob/main/seedance-real-selling-video-full.zip
 ## Usage
 
 Example prompts:
